@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3500&color=blue&center=true&vCenter=true&lines=Welcome+to+My+GitHub!;Researcher+in+Computer+Vision+AI+Specialist" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3500&color=blue&center=true&vCenter=true&lines=Welcome+to+My+GitHub!;Researcher+in+Computer+Vision+AI" alt="Typing SVG">
 </p>
 
 ## 👨‍💻 **About Me**
