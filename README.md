@@ -34,14 +34,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msjae&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msjae&theme=tokyonight" width="48%">
-</p>
-
----
-
 ## 🏆 **What I Offer**
 - 🔍 **Expertise** in **Computer Vision** and **AI**  
 - 🛠️ Ability to design, train, and deploy **deep learning models** for real-world applications  
