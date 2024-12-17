@@ -1,17 +1,22 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3500&color=blue&center=true&vCenter=true&lines=Welcome+to+My+GitHub!;Researcher+in+Computer+Vision+AI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3500&color=blue&center=true&vCenter=true&lines=Welcome+to+My+GitHub!;Researcher+in+Computer+Vision+AI;Let's+build+something+great!" alt="Typing SVG">
 </p>
 
-## 👨‍💻 **About Me**
-- 🎓 **MS in Automotive Engineering**, specializing in **Computer Vision and AI**  
-- 🚘 **Automotive IT Convergence** @ **Kookmin University, Graduate School of Automotive Mobility**  
-- 💡 Focused on **Human-Machine Interaction** and **Emotion Recognition AI**  
-- 🛠️ Experienced in **Deep Learning**, **Robotics (ROS)**, and **Autonomous Systems**  
+## 👋 **Hello there!**
+I'm **Seongjae Min**, an AI enthusiast and researcher passionate about pushing boundaries in **Computer Vision**.
+
+- 🎓 **Master's in Automotive Engineering**  
+   Specialized in **Computer Vision** and **Deep Learning**  
+   **Automotive IT Convergence** | Kookmin University Graduate School of Automotive Mobility  
+- 🧠 I work on making machines see and understand better, especially for **Human-Machine Interaction** systems.  
+- 🛠️ Skills I rely on: **Deep Learning**, **Robotics (ROS)**, and **Autonomous Systems**  
+
+I believe that combining **AI** and **human understanding** leads to a safer and smarter future 🚀.  
 
 ---
 
-## 🛠️ **Skills & Tools**
+## 🛠️ **My Toolkit**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
@@ -25,28 +30,35 @@
 
 ---
 
-## 🚀 **Projects**
-| **Project Name**                 | **Description**                                                                                      | **Tech Stack**                          |
-|----------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------|
-| **HMD Face Restoration**         | Implemented **inpainting techniques** to reconstruct the **occluded faces of HMD wearers**.          | Python, TensorFlow, OpenCV              |
-| **Emotion Recognition (ABAW)**   | Developed an **emotion recognition system** using the ABAW Challenge dataset for facial analysis.    | PyTorch, Emotion AI, Computer Vision    |
-| **Driver Emotion Recognition**   | Designed a **multimodal emotion recognition model** using **MobileNetV3** and **PPG data**.           | Python, MobileNetV3, Multimodal AI      |
+## 🚀 **Projects I’m Proud Of**
+| **Project Name**                 | **What I Built**                                                                                   | **Tech Stack**                          |
+|----------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------|
+| **HMD Face Restoration**         | Reconstructed **HMD-wearers' faces** using advanced **inpainting techniques** for better visuals.  | Python, TensorFlow, OpenCV              |
+| **Emotion Recognition (ABAW)**   | Designed an AI system to analyze **facial emotions** using the ABAW dataset.                       | PyTorch, Emotion AI, Computer Vision    |
+| **Driver Emotion Recognition**   | Built a **multimodal emotion recognition model** with **MobileNetV3** and real-time **PPG data**.  | Python, MobileNetV3, Multimodal AI      |
+
+Each project is a step toward enabling machines to **understand humans better** 🤖❤️.  
 
 ---
 
-## 🏆 **What I Offer**
-- 🔍 **Expertise** in **Computer Vision** and **AI**  
-- 🛠️ Ability to design, train, and deploy **deep learning models** for real-world applications  
-- 🚘 Deep understanding of **Automotive AI systems** and Human-Machine Interaction  
+## 🏆 **What You Can Expect From Me**
+- 📸 A deep understanding of **Computer Vision** and how to apply it effectively  
+- 🚗 **Human-Machine Interaction (HMI)** expertise for next-gen automotive systems  
+- 💡 Proficiency in training and deploying real-world **AI/Deep Learning models**  
+
+I love collaborating on meaningful projects, whether it's for **AI-driven innovation** or open-source contributions.  
 
 ---
 
-## 📫 **Contact Me**
+## 📫 **Let’s Connect!**
 - 📧 Email: [mugun19@gmail.com](mailto:mugun19@gmail.com)  
-- 🚀 Let's collaborate on **Computer Vision & AI Projects!**  
+- 🚀 Let’s build the next breakthrough in **Computer Vision & AI**!  
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msjae&label=Profile+Views&color=brightgreen" alt="Profile Views">
+</p>
+<p align="center">
+  🚀 *"The future belongs to those who see possibilities today."*
 </p>
