@@ -12,8 +12,6 @@ I'm **Seongjae Min**, an AI enthusiast and researcher passionate about pushing b
 - 🧠 I work on making machines see and understand better, especially for **Human-Machine Interaction** systems.  
 - 🛠️ Skills I rely on: **Deep Learning**, **Robotics (ROS)**, and **Autonomous Systems**  
 
-I believe that combining **AI** and **human understanding** leads to a safer and smarter future 🚀.  
-
 ---
 
 ## 🛠️ **My Toolkit**
@@ -37,16 +35,12 @@ I believe that combining **AI** and **human understanding** leads to a safer and
 | **Emotion Recognition (ABAW)**   | Designed an AI system to analyze **facial emotions** using the ABAW dataset.                       | PyTorch, Emotion AI, Computer Vision    |
 | **Driver Emotion Recognition**   | Built a **multimodal emotion recognition model** with **MobileNetV3** and real-time **PPG data**.  | Python, MobileNetV3, Multimodal AI      |
 
-Each project is a step toward enabling machines to **understand humans better** 🤖❤️.  
-
 ---
 
 ## 🏆 **What You Can Expect From Me**
 - 📸 A deep understanding of **Computer Vision** and how to apply it effectively  
 - 🚗 **Human-Machine Interaction (HMI)** expertise for next-gen automotive systems  
 - 💡 Proficiency in training and deploying real-world **AI/Deep Learning models**  
-
-I love collaborating on meaningful projects, whether it's for **AI-driven innovation** or open-source contributions.  
 
 ---
 
@@ -58,7 +52,4 @@ I love collaborating on meaningful projects, whether it's for **AI-driven innova
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msjae&label=Profile+Views&color=brightgreen" alt="Profile Views">
-</p>
-<p align="center">
-  🚀 *"The future belongs to those who see possibilities today."*
 </p>
